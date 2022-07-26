@@ -1,7 +1,7 @@
 # Price-Scrapper
 
 
-### you can scrapp coins OHCLV infromation from Coinbase API by using this jupyter notebook
+### you can scrap coins OHCLV infromation from Coinbase API by using this jupyter notebook
 
 
 ### first import the libraries 
